@@ -3,7 +3,9 @@
 1. Configuration:
 - First, please ensure that you have:
   +) Node is installed:
+  
      [] Check if node -v can return Node version.
+  
      [] Check if npm -v can return Node version.
 
 - Next, clone the repo
